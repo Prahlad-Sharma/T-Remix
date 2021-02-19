@@ -13,7 +13,7 @@ Hope you guys like this Project,then dont forget to give it a like.
    7. Login banner is for HACKERs only.
    8. Show off to other with hacker attitude.
 # Developer's Image   
-<img src="https://avatars3.githubusercontent.com/u/67367001?s=460&u=a3584dda8e1795eb39f9670ca8197c120d2cc497&v=4">
+<img src="https://user-images.githubusercontent.com/79293553/108507840-ebd86400-72e0-11eb-9a1c-3b13c82c9fbb.jpg">
    
 ### WANNA TRY THIS NEW CUSTOMISATION OF TERMUX? IT'LL GIVE A MODERN LOOK TO YOUR TERMUX TO SHOW OFF :)
 ### Installation T-Remix
