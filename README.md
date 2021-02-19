@@ -23,7 +23,7 @@ $ termux-setup-storage
   
 $ pkg update && pkg upgrade && pkg install git -y
 
-$ git clone https://github.com/Arij-arman/T-Remix
+$ git clone https://github.com/Prahlad-Sharma/T-Remix.git
 
 $ ls
 
@@ -56,7 +56,7 @@ $ ls
 
 $ bash remove-login.sh
 ```
-### Development by ARIJ ARMAN
+### Development by PRAHLAD SHARMA 
 ### Keep connected for hacking tools, Thank you.
-### Subscribe my channel for hacking tutorials, <a href="https://www.youtube.com/channel/UCJ5H4A3QAsIbQsVqfMBdZYQ" target=_blank >Tech Know Linux </a>
+### Subscribe my channel for hacking tutorials, <a href="https://youtube.com/channel/UCMV-DsEgNIC-Gs6i8-GO8RQ" target=_blank >HACKER PS </a>
 
