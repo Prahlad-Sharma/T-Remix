@@ -2,14 +2,14 @@
 clear
 echo " "
 echo " "
-echo -e "\e[33mEnter Your Banner Name(e.g. ARIJ) \e[32m \n\n"
+echo -e "\e[33mEnter Your Banner Name(e.g. PRAHLAD) \e[32m \n\n"
 read varbanner
 
 echo " " 
 
 echo "toilet -f slant '           $varbanner'  -F gay | lolcat" > t-ban.txt
 
-echo -e "\e[33mEnter Your Terminal Name(e.g. root@arij) \e[32m  \n\n"
+echo -e "\e[33mEnter Your Terminal Name(e.g. root@prahlad) \e[32m  \n\n"
 read varterm
 
 echo " " 
