@@ -29,7 +29,7 @@ read answer
 tput cup 12 22
 echo -e "\e[104m hello! Have a nice day!! $answer! \e[m"
 tput cup 15 0
-echo -en "\e[93m Have you subscribe my channel TECH KNOW LINUX by ARIJ ARMAN (y/n)? \e[m "
+echo -en "\e[93m Have you subscribe my channel HACKER PS by PRAHLAD SHARMA (y/n)? \e[m "
 read answer
 
 if [ "$answer" != "${answer#[Yy]}" ] ;then
@@ -40,7 +40,7 @@ tput cup 17 23
     echo -e "\x1b[41m Please subsrcibe my channel \x1b[m"
 fi
 tput cup 20 0
-figlet -f slant "TECH KNOW LINUX by ARIJ ARMAN" |lolcat
+figlet -f slant "HACKER PS by PRAHLAD SHARMA" |lolcat
 echo " "
 echo " "
 
