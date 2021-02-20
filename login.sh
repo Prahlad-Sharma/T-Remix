@@ -45,7 +45,7 @@ echo -e "\e[34m[*]\e[m \e[33mplease wait \e[m"
 sleep 3
 echo -e "\e[34m[*]\e[m \e[33msetting up user input \e[m"
 sleep 3
-echo -e "\e[34m[*]\e[m \e[33mcreate a password(e.g. arij) \e[m"
+echo -e "\e[34m[*]\e[m \e[33mcreate a password(e.g. prahlad) \e[m"
 sleep 2
 echo -e "\e[34m[*]\e[m \e[33msave user input \e[m"
 echo " "
@@ -55,7 +55,7 @@ sleep 2
 clear
 echo
 echo
-echo -e  "\e[32mEnter password for login:(e.g. arij) \e[m"
+echo -e  "\e[32mEnter password for login:(e.g. prahlad) \e[m"
 read passone
 echo -e "\e[32mConfirm password: \e[m "
 read passtwo
