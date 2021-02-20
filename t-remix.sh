@@ -1,8 +1,8 @@
 #!/data/data/com.termux/files/usr/bin/bash
 ######################################
 #        PROJECT: T-Remix            #
-#        Author: ARIJ ARMAN          #
-#  email: mrxanonymous633@gmailcom   #
+#        Author: PRAHLAD SHARMA      #
+#  email: prahalad8426012@gmail.com  #
 ######################################
 
 #Installing the following packages to install T-Remix
@@ -50,7 +50,7 @@ echo "
 echo " "
 echo " "
 echo " 
-       <─────────────── [ Re-Coded by =*•.¸♡ARIJ ARMAN♡¸.•* ] ───────────────>            
+       <─────────────── [ Coded by =*•.¸♡PRAHLAD SHARMA♡¸.•* ] ───────────────>            
                                                                " |lolcat
 
 
@@ -173,7 +173,7 @@ echo " "
 
 echo " "
 echo "
-        <─────────────── [Re-Coded by *•.¸♡ARIJ ARMAN♡¸.•* ] ───────────────>              
+        <─────────────── [Coded by *•.¸♡PRAHLAD SHARMA♡¸.•* ] ───────────────>              
                             " |lolcat
 
 echo " "
@@ -189,7 +189,7 @@ tput clear
 tput cup 3 30
 echo -e "\e[44m Like \e[41m Subscribe \e[m"
 tput cup 6 30
-echo -e "\x1b[42m ARIJ ARMAN's TECH KNOW LINUX channel \x1b[m"
+echo -e "\x1b[42m PRAHLAD SHARMA'S HACKER PS channel \x1b[m"
 tput cup 9 0
 echo -en "\e[93m what is your name : \e[m"
 read answer
@@ -207,7 +207,7 @@ tput cup 17 23
     echo -e "\x1b[41m Please subsrcibe my channel for hacking tutorial \x1b[m"
 fi
 tput cup 20 0
-figlet -f slant "ARIJ ARMAN's TECH KNOW LINUX" |lolcat
+figlet -f slant "PRAHLAD SHARMA'S HACKER PS" |lolcat
 echo " "
 echo " "
 #done setting up
